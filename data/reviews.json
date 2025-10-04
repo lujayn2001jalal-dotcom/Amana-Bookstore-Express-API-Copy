@@ -109,6 +109,26 @@
       "comment": "Great integration of geophysics with climate science. The plate tectonics chapters are well-written and current.",
       "timestamp": "2024-03-08T11:40:00Z",
       "verified": true
+    },
+    {
+      "id": "review-12",
+      "bookId": "1",
+      "author": "John Doe",
+      "title": "Great Book Review",
+      "comment": "This book is amazing!",
+      "rating": 5,
+      "verified": true,
+      "timestamp": "2025-10-03T19:53:17.798Z"
+    },
+    {
+      "id": "review-13",
+      "bookId": "5",
+      "author": "Sara",
+      "title": "Great explanation of machine learning",
+      "comment": "This book helped me understand complex machine learning concepts clearly. Highly recommended for students!",
+      "rating": 5,
+      "verified": true,
+      "timestamp": "2025-10-04T08:48:23.205Z"
     }
   ]
 }

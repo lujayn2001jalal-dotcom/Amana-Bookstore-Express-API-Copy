@@ -77,6 +77,58 @@
       "reviewCount": 12,
       "inStock": false,
       "featured": false
+    },
+    {
+      "id": "4",
+      "title": "Test Driven Development in JavaScript",
+      "author": "Kent Beck",
+      "description": "A practical book on TDD for JS developers.",
+      "price": 45.99,
+      "image": "/images/book4.jpg",
+      "isbn": "978-1111111111",
+      "genre": [
+        "Programming",
+        "Software Engineering"
+      ],
+      "tags": [
+        "TDD",
+        "JavaScript",
+        "Testing"
+      ],
+      "datePublished": "2024-01-10",
+      "pages": 320,
+      "language": "English",
+      "publisher": "TechPress",
+      "rating": 5,
+      "reviewCount": 10,
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": "5",
+      "title": "Introduction to Machine Learning",
+      "author": "Lojain Abdalrazaq Book",
+      "description": "A beginner-friendly guide to machine learning concepts, algorithms, and practical implementations using Python.",
+      "price": 99.95,
+      "image": "/images/ml_book.jpg",
+      "isbn": "978-0987654321",
+      "genre": [
+        "Computer Science",
+        "Machine Learning"
+      ],
+      "tags": [
+        "AI",
+        "ML",
+        "Python"
+      ],
+      "datePublished": "2023-08-15",
+      "pages": 450,
+      "language": "English",
+      "publisher": "TechWorld Press",
+      "rating": 4.6,
+      "reviewCount": 12,
+      "inStock": true,
+      "featured": true
     }
   ]
 }
